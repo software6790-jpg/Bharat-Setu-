@@ -1,0 +1,8 @@
+{
+  "name": "bharat-setu-netlify-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bharat Setu marketplace prototype and Netlify Functions starter",
+  "scripts": {"dev": "netlify dev", "deploy": "netlify deploy --prod"},
+  "devDependencies": {"netlify-cli": "^23.0.0"}
+}
